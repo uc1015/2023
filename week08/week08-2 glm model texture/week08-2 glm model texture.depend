@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1680769357 source:c:\users\administrator\desktop\week08-2 glm model texture\main.cpp
+	<GL/glut.h>
+	"glm.h"
+
+1680765225 c:\users\administrator\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1680765225 c:\users\administrator\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+924330300 c:\users\administrator\desktop\week08-2 glm model texture\glm.h
+	<GL/glut.h>
+
